@@ -1,12 +1,6 @@
 Hi 👋 My name is Harkaran
 =========================
 
-Software Engineer | Farmer
---------------------------
-
-* 🌍  I'm based in California
-* ✉️  You can contact me at [harkaranbrar7@gmail.com](mailto:harkaranbrar7@gmail.com)
-
 ### Skills
 
 <p align="left">
