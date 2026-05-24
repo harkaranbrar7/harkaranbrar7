@@ -1,37 +1,55 @@
-Hi 👋 My name is Harkaran
-=========================
+# Harkaran Brar
 
-### Skills
+Software engineer building practical AI systems for trading and automation.
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harkaranbrar7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/harkaranbrar7)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harkaranbrar7)
 
+## About
 
-### Socials
+- Building products at the intersection of AI, finance, and full-stack engineering.
+- Focused on autonomous agents, market signal pipelines, and execution systems.
+- I like simple architecture, fast iteration, and measurable outcomes.
 
-<p align="left"> <a href="https://www.github.com/harkaranbrar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/harkaranbrar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/harkaranbrar7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## What I Am Building
 
-### Badges
+### Arbit
 
-<b>My GitHub Stats</b>
+Autonomous AI trading agent for real-time market scanning, signal generation, and order execution.
 
-<a href="http://www.github.com/harkaranbrar7"><img src="https://github-readme-stats.vercel.app/api?username=harkaranbrar7&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="harkaranbrar7's GitHub stats" /></a>
+**Current focus**
+- Signal quality and risk controls
+- Execution reliability and latency
+- Monitoring and strategy evaluation
 
-<a href="http://www.github.com/harkaranbrar7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harkaranbrar7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Tech I Use
 
-<a href="http://www.github.com/harkaranbrar7"><img src="https://activity-graph.herokuapp.com/graph?username=harkaranbrar7&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+- **Languages:** Python, TypeScript, JavaScript, Go, C++, Java
+- **Backend:** FastAPI, PostgreSQL, MySQL
+- **Frontend:** Next.js, React
+- **Infra & Tools:** Docker, GitHub Actions
+- **AI:** OpenAI, LangChain, Alpaca API
 
-<a href="https://github.com/harkaranbrar7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harkaranbrar7&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## What I Can Help With
 
-### Support Me
+- AI and LLM agent workflows
+- FastAPI backend systems
+- Trading automation and data pipelines
+- Full-stack product development
 
-<a href="https://www.buymeacoffee.com/harkaranbrar7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+## Currently Learning
+
+- Advanced agentic AI patterns
+- Options and systematic strategy design
+- Startup and product scaling fundamentals
+
+## Connect
+
+- LinkedIn: [harkaranbrar7](https://www.linkedin.com/in/harkaranbrar7)
+- X: [@harkaranbrar7](https://x.com/harkaranbrar7)
+- GitHub: [harkaranbrar7](https://github.com/harkaranbrar7)
+
+---
+
+If you are building in AI or trading infra, feel free to reach out.
