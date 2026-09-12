@@ -1,55 +1,75 @@
 # Harkaran Brar
 
-Software engineer building practical AI systems for trading and automation.
+Software engineer building practical AI agents, quantitative market tools, and resilient operational pipelines. Rooted in agriculture, driven by distributed systems and market mechanics.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harkaranbrar7)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/harkaranbrar7)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harkaranbrar7)
+```text
+                                  ||
+                                  ||  /|
+                            ______||_/_|________
+                           |  ____    _   ____  |
+                           | |    |  | | |    | |
+             ______________| |____|  |_| |____| |
+            /  JOHN DEERE                         \
+      _____/   ___________               .-----.   \
+     / ___/   /   ______  \             / .---. \   \
+    | |      |   /  __  \  |           | |     | |   |
+    | |______|  |  /  \  | |___________| |     | |___|
+    |________|  | | () | | |___________|  \___/  |___|
+      \______/   \ \__/ / /             \       /
+                  \______/               '-----'
+  ======================================================
+  ~~~~~~~~~ ~~~~~~~~~ ~~~~~~~~~ ~~~~~~~~~ ~~~~~~~~~ ~~~~
+  //////////////////////////////////////////////////////
 
-## About
+```
 
-- Building products at the intersection of AI, finance, and full-stack engineering.
-- Focused on autonomous agents, market signal pipelines, and execution systems.
-- I like simple architecture, fast iteration, and measurable outcomes.
+```text
+ _________________________ 
+| MARKET MONITOR  [LIVE]  |   Growing up around farming taught me that systems
+| $AAPL ▲ 234.5  +1.8%    |   must be durable, low-maintenance, and built to
+| $NVDA ▲ 128.2  +3.4%    |   survive harsh conditions. I bring that same
+| $SPY  ▼ 548.1  -0.4%    |   mindset to autonomous agents, logistics APIs,
+|_________________________|   and quantitative trading pipelines.
 
-## What I Am Building
-
-### Arbit
-
-Autonomous AI trading agent for real-time market scanning, signal generation, and order execution.
-
-**Current focus**
-- Signal quality and risk controls
-- Execution reliability and latency
-- Monitoring and strategy evaluation
-
-## Tech I Use
-
-- **Languages:** Python, TypeScript, JavaScript, Go, C++, Java
-- **Backend:** FastAPI, PostgreSQL, MySQL
-- **Frontend:** Next.js, React
-- **Infra & Tools:** Docker, GitHub Actions
-- **AI:** OpenAI, LangChain, Alpaca API
-
-## What I Can Help With
-
-- AI and LLM agent workflows
-- FastAPI backend systems
-- Trading automation and data pipelines
-- Full-stack product development
-
-## Currently Learning
-
-- Advanced agentic AI patterns
-- Options and systematic strategy design
-- Startup and product scaling fundamentals
-
-## Connect
-
-- LinkedIn: [harkaranbrar7](https://www.linkedin.com/in/harkaranbrar7)
-- X: [@harkaranbrar7](https://x.com/harkaranbrar7)
-- GitHub: [harkaranbrar7](https://github.com/harkaranbrar7)
+```
 
 ---
 
-If you are building in AI or trading infra, feel free to reach out.
+## What I Focus On
+
+* **Systematic Market Pipelines:** Developing automated market data processing, daily streaming rebalancing, and quantitative signal smoothing with news factor analysis.
+* **Freight & Field Automation:** Engineering real-world logistics tools and advisory platforms, integrating carrier load boards, mapping, and operational decision layers.
+* **Multi-Agent Orchestration:** Designing autonomous developer agents and task orchestrators operating locally across WSL2 and Docker environments.
+* **Self-Hosted Infrastructure:** Managing continuous mini-server stacks for edge container routing, telemetry, and energy grid monitoring.
+
+---
+
+## Technical Stack
+
+* **Core Languages:** Python, TypeScript, SQL, Go, C++
+* **AI & Local Inference:** Local LLMs (Qwen, DeepSeek-R1), Multi-Agent Pipelines, Function Calling, Prompt Optimization
+* **Backend & Systems:** FastAPI, Next.js, PostgreSQL, Docker, Linux / WSL2, Redis
+* **Integrations & Data:** Market Data APIs, Logistics APIs (DAT, Truckstop), Financial Telemetry Pipelines
+
+---
+
+## Philosophy
+
+```text
++-----------------------------------------------------------+
+|  "A tractor can't break down in the middle of harvest,    |
+|   and an execution pipeline can't drop orders at the open.|
+|   Build deterministic, durable, and clean."              |
++-----------------------------------------------------------+
+
+```
+
+---
+
+## Connect
+
+* **LinkedIn:** [harkaranbrar7](https://www.linkedin.com/in/harkaranbrar7)
+* **X:** [@harkaranbrar7](https://x.com/harkaranbrar7)
+* **GitHub:** [harkaranbrar7](https://github.com/harkaranbrar7)
+
+*Open to discussing systematic market systems, local AI agents, and practical automation.*
