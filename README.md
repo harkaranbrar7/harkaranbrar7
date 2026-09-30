@@ -1,20 +1,21 @@
 # Harkaran Brar
 
-Software engineer building developer tools and reliable automation. I work with
-Python, TypeScript, Rust, and Linux, with an interest in local AI, market data,
-and software for freight and field operations.
+Software engineer building dependable automation for markets, freight, and
+developer workflows.
 
-Growing up on a family farm shaped how I build: keep systems practical,
-observable, and dependable when no one is there to babysit them.
+I grew up on a family farm, where delays have real costs and tools need to work
+without constant attention. That experience shapes how I build software:
+understand the operation first, then make the system simple to run, easy to
+observe, and straightforward to recover.
 
-## Selected work
+## Current focus
 
-- [PureCode](https://github.com/isupervillain/purecode) — A Rust CLI that
-  separates code from comments and boilerplate in diffs and repositories. I
-  contributed to its development.
-- [OpenCode Container Exec](https://github.com/isupervillain/opencode-container-exec)
-  — A plugin that runs OpenCode commands inside VS Code dev containers from WSL.
-  I contributed to its development.
+- **Market systems:** Data pipelines, quantitative signals, and scheduled workflows.
+- **Freight and field operations:** Integrations and tools that support practical decisions.
+- **Developer tooling and local AI:** Containerized workflows and agent orchestration.
+
+I work primarily with Python, TypeScript, Rust, SQL, Linux, Docker, FastAPI,
+Next.js, and PostgreSQL.
 
 ## Connect
 
